@@ -1,11 +1,4 @@
 
-  _    _      _ _       
- | |  | |    | | |      
- | |__| | ___| | | ___  
- |  __  |/ _ \ | |/ _ \ 
- | |  | |  __/ | | (_) |
- |_|  |_|\___|_|_|\___/ 
-                        
                   
 Hi there! I'm a **Computer Science student** passionate about software development, game design, and embedded systems. I'm constantly honing my skills and working on projects that blend creativity with technical expertise.
 
