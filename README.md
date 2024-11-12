@@ -1,16 +1,16 @@
 
                   
-Hi there! I'm a **Computer Science student** passionate about software development, game design. I'm constantly honing my skills and working on projects that blend creativity with technical expertise.
+Hi there! I'm a **Computer Science student and Python Developer** passionate about software development, game design. I'm constantly honing my skills and working on projects that blend creativity with technical expertise.
 
 ## About Me
 
 - 🎓 **Computer Science student** focused on low-level systems and embedded software development.
-- 💻 Proficient in **Python**, and **GDScript**, and exploring **synchronous** and **asynchronous frameworks**.
+- 💻 Proficient in **Python**, and **GDScript**,
 - 🎮 Game developer working on innovative projects like **ULTRAVIOLENT**, a fast-paced Boomer shooter with unique mechanics.
 
 ## Skills
 
-- **Languages**: Python, C++, GDScript
+- **Languages**: Python, Gdscript
 - **Technologies**: Godot Engine (4.x), Git,
 - **Focus Areas**: Game development, software development, low-level programming
 
@@ -29,6 +29,8 @@ A finance management app designed to help users log daily expenses and keep trac
 - **Features**: Daily expense logging, budgeting tools.
 
 ## What I'm Currently Learning
+- Learning C++ so i can fork the godot engine
+- Learning C# to transition away from Gdscript 
 
 - **Low-level programming** for building efficient, optimized solutions.
 - **Advanced algorithms and data structures** to enhance problem-solving and performance optimization.
