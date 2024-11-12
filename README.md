@@ -1,20 +1,18 @@
 
                   
-Hi there! I'm a **Computer Science student** passionate about software development, game design, and embedded systems. I'm constantly honing my skills and working on projects that blend creativity with technical expertise.
+Hi there! I'm a **Computer Science student** passionate about software development, game design. I'm constantly honing my skills and working on projects that blend creativity with technical expertise.
 
 ## About Me
 
 - 🎓 **Computer Science student** focused on low-level systems and embedded software development.
-- 💻 Proficient in **Python**, **C++**, and **GDScript**, and exploring **synchronous** and **asynchronous frameworks**.
-- 🎮 Game developer working on innovative projects like **ULTRAVIOLENT**, a fast-paced movement shooter with unique mechanics.
-- 🔧 Exploring **embedded software engineering** to build efficient, high-performance systems.
+- 💻 Proficient in **Python**, and **GDScript**, and exploring **synchronous** and **asynchronous frameworks**.
+- 🎮 Game developer working on innovative projects like **ULTRAVIOLENT**, a fast-paced Boomer shooter with unique mechanics.
 
 ## Skills
 
 - **Languages**: Python, C++, GDScript
-- **Technologies**: Godot Engine (4.x), Git, pytest
-- **Focus Areas**: Game development, embedded software, low-level programming
-- **Frameworks**: Synchronous and asynchronous programming models
+- **Technologies**: Godot Engine (4.x), Git,
+- **Focus Areas**: Game development, software development, low-level programming
 
 ## Projects
 
@@ -33,7 +31,6 @@ A finance management app designed to help users log daily expenses and keep trac
 ## What I'm Currently Learning
 
 - **Low-level programming** for building efficient, optimized solutions.
-- **Embedded systems development** as I work towards a career in **embedded software engineering**.
 - **Advanced algorithms and data structures** to enhance problem-solving and performance optimization.
 
 ## Let's Connect
